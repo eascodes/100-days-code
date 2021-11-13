@@ -144,3 +144,11 @@ https://codepen.io/eascodes/pen/JjyOXbg
 **Thoughts** I intended to finish this module today but ended up getting stuck and spent >2 hours on one of the questions involving accessing nested arrays. After spending a while on it, I ended up talking the problem through with someone and starting my code over from the beginning. That was the trick! It was fun to problem-solve.
 
 **Link(s) to work** https://www.freecodecamp.org/eascodes
+
+## Day 18: November 12, 2021
+
+**Today's Progress**: Today I continued the Basic JavaScript course on FreeCodeCamp.
+
+**Thoughts** Today I spent several hours solving a few of the problems on this module. Although they were challenging to figure out, it was pretty enjoyable/addicting to solve them.
+
+**Link(s) to work** https://www.freecodecamp.org/eascodes
