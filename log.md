@@ -152,3 +152,11 @@ https://codepen.io/eascodes/pen/JjyOXbg
 **Thoughts** Today I spent several hours solving a few of the problems on this module. Although they were challenging to figure out, it was pretty enjoyable/addicting to solve them.
 
 **Link(s) to work** https://www.freecodecamp.org/eascodes
+
+## Day 19: November 13, 2021
+
+**Today's Progress**: Today I continued the Basic JavaScript course on FreeCodeCamp.
+
+**Thoughts** Learning how to generate random numbers using JavaScript helped me to understand many of the JS generator website projects that I've seen. It's cool to think about all of the possibilities with this function.
+
+**Link(s) to work** https://www.freecodecamp.org/eascodes
