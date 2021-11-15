@@ -160,3 +160,11 @@ https://codepen.io/eascodes/pen/JjyOXbg
 **Thoughts** Learning how to generate random numbers using JavaScript helped me to understand many of the JS generator website projects that I've seen. It's cool to think about all of the possibilities with this function.
 
 **Link(s) to work** https://www.freecodecamp.org/eascodes
+
+## Day 20: November 14, 2021
+
+**Today's Progress**: Today I finished the Basic JavaScript course on FreeCodeCamp.
+
+**Thoughts** The last few exercises in the module with recursion stumped me. I was able to get through them but don't have a great grasp on recursion yet.
+
+**Link(s) to work** https://www.freecodecamp.org/eascodes
