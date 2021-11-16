@@ -168,3 +168,11 @@ https://codepen.io/eascodes/pen/JjyOXbg
 **Thoughts** The last few exercises in the module with recursion stumped me. I was able to get through them but don't have a great grasp on recursion yet.
 
 **Link(s) to work** https://www.freecodecamp.org/eascodes
+
+## Day 21: November 15, 2021
+
+**Today's Progress**: Today I started on a new project. I am making a business website for the bakery that my mom is hoping to start next year. I created the HTML & CSS files for the website, and began setting up my HTML code structure.
+
+**Thoughts** It feels nice to get back to HTML & CSS after working with JavaScript for a few days. I'm really excited about this project!
+
+**Link(s) to work** https://github.com/eascodes?tab=repositories
