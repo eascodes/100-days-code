@@ -176,3 +176,11 @@ https://codepen.io/eascodes/pen/JjyOXbg
 **Thoughts** It feels nice to get back to HTML & CSS after working with JavaScript for a few days. I'm really excited about this project!
 
 **Link(s) to work** https://github.com/eascodes?tab=repositories
+
+## Day 22: November 16, 2021
+
+**Today's Progress**: Today I created the first drafts of the landing page and "About" page for the bakery website.
+
+**Thoughts** My favorite part was doing the styling for my links/buttons (I love the :hover function). The most challenging part was aligning items with CSS flexbox. I found it extremely helpful to create colorful borders for all of the items/containers while working with them. Making my landing page responsive on several screen sizes/types was easier than I anticipated - hopefully the other website pages are the same!
+
+**Link(s) to work** https://github.com/eascodes?tab=repositories
