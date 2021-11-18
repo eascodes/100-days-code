@@ -184,3 +184,11 @@ https://codepen.io/eascodes/pen/JjyOXbg
 **Thoughts** My favorite part was doing the styling for my links/buttons (I love the :hover function). The most challenging part was aligning items with CSS flexbox. I found it extremely helpful to create colorful borders for all of the items/containers while working with them. Making my landing page responsive on several screen sizes/types was easier than I anticipated - hopefully the other website pages are the same!
 
 **Link(s) to work** https://github.com/eascodes?tab=repositories
+
+## Day 23: November 17, 2021
+
+**Today's Progress**: Today I created the contact page for my bakery website. I learned how to embed a Google map and created a contact form. I worked on making all of the pages responsive on various screen sizes.
+
+**Thoughts** Working on this project has helped to me to better understand CSS flexbox/grid and also the importance of media queries. I'm really excited about my progress so far.
+
+**Link(s) to work** https://github.com/eascodes?tab=repositories
