@@ -192,3 +192,11 @@ https://codepen.io/eascodes/pen/JjyOXbg
 **Thoughts** Working on this project has helped to me to better understand CSS flexbox/grid and also the importance of media queries. I'm really excited about my progress so far.
 
 **Link(s) to work** https://github.com/eascodes?tab=repositories
+
+## Day 24: November 18, 2021
+
+**Today's Progress**: Today I created the order page for the bakery website.
+
+**Thoughts** I was very excited that the order form came together so quickly due to the pre-existing CSS form styling, however I struggled with finding a way to save the form data.
+
+**Link(s) to work** https://github.com/eascodes?tab=repositories
