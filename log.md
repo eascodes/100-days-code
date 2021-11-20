@@ -200,3 +200,11 @@ https://codepen.io/eascodes/pen/JjyOXbg
 **Thoughts** I was very excited that the order form came together so quickly due to the pre-existing CSS form styling, however I struggled with finding a way to save the form data.
 
 **Link(s) to work** https://github.com/eascodes?tab=repositories
+
+## Day 25: November 19, 2021
+
+**Today's Progress**: Today I started the JavaScript ES6 module on FreeCodeCamp.
+
+**Thoughts** To help solve my questions about saving form data on the bakery website, I decided to revisit the JavaScript tutorials I was working through on FreeCodeCamp.
+
+**Link(s) to work** https://www.freecodecamp.org/eascodes
