@@ -208,3 +208,11 @@ https://codepen.io/eascodes/pen/JjyOXbg
 **Thoughts** To help solve my questions about saving form data on the bakery website, I decided to revisit the JavaScript tutorials I was working through on FreeCodeCamp.
 
 **Link(s) to work** https://www.freecodecamp.org/eascodes
+
+## Day 26: November 20, 2021
+
+**Today's Progress**: Today I continued working on the JavaScript ES6 module on FreeCodeCamp.
+
+**Thoughts** I am still challenged by the JavaScript modules but am enjoying the problem-solving.
+
+**Link(s) to work** https://www.freecodecamp.org/eascodes
