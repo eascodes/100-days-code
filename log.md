@@ -216,3 +216,11 @@ https://codepen.io/eascodes/pen/JjyOXbg
 **Thoughts** I am still challenged by the JavaScript modules but am enjoying the problem-solving.
 
 **Link(s) to work** https://www.freecodecamp.org/eascodes
+
+## Day 27: November 21, 2021
+
+**Today's Progress**: Today I continued working on the JavaScript ES6 module on FreeCodeCamp. I learned about destructuring.
+
+**Thoughts** I am still challenged by the JavaScript modules but am enjoying the problem-solving.
+
+**Link(s) to work** https://www.freecodecamp.org/eascodes
