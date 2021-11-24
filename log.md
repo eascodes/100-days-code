@@ -232,3 +232,11 @@ https://codepen.io/eascodes/pen/JjyOXbg
 **Thoughts** I am still challenged by the JavaScript modules but am enjoying the problem-solving.
 
 **Link(s) to work** https://www.freecodecamp.org/eascodes
+
+## Day 29: November 23, 2021
+
+**Today's Progress**: Today I continued working on the JavaScript ES6 module on FreeCodeCamp. I learned about object property shorthand and class syntax.
+
+**Thoughts** I am still challenged by the JavaScript modules but am enjoying the problem-solving.
+
+**Link(s) to work** https://www.freecodecamp.org/eascodes
