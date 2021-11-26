@@ -248,3 +248,11 @@ https://codepen.io/eascodes/pen/JjyOXbg
 **Thoughts** I am still challenged by the JavaScript modules but am enjoying the problem-solving.
 
 **Link(s) to work** https://www.freecodecamp.org/eascodes
+
+## Day 31: November 25, 2021
+
+**Today's Progress**: Today I continued working on the JavaScript ES6 module on FreeCodeCamp. I completed a challenge involving getters & setters after initially getting stuck on the problem.
+
+**Thoughts** I am still challenged by the JavaScript modules but am enjoying the problem-solving.
+
+**Link(s) to work** https://www.freecodecamp.org/eascodes
