@@ -256,3 +256,11 @@ https://codepen.io/eascodes/pen/JjyOXbg
 **Thoughts** I am still challenged by the JavaScript modules but am enjoying the problem-solving.
 
 **Link(s) to work** https://www.freecodecamp.org/eascodes
+
+## Day 32: November 26, 2021
+
+**Today's Progress**: Today I continued working on the JavaScript ES6 module on FreeCodeCamp. I learned about creating module scripts & exporting/sharing code blocks.
+
+**Thoughts** I am still challenged by the JavaScript modules but am enjoying the problem-solving.
+
+**Link(s) to work** https://www.freecodecamp.org/eascodes
