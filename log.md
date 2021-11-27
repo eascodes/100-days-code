@@ -264,3 +264,11 @@ https://codepen.io/eascodes/pen/JjyOXbg
 **Thoughts** I am still challenged by the JavaScript modules but am enjoying the problem-solving.
 
 **Link(s) to work** https://www.freecodecamp.org/eascodes
+
+## Day 33: November 27, 2021
+
+**Today's Progress**: Today I completed the JavaScript ES6 module on FreeCodeCamp. I watched an Intro to JavaScript video on YouTube, and started the FreeCodeCamp module on regular expressions.
+
+**Thoughts** I was excited to complete the ES6 module after working on it this past week. Watching the Intro to JS video definitely helped to put some of the concepts into context and was a nice review.
+
+**Link(s) to work** https://www.freecodecamp.org/eascodes
