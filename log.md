@@ -272,3 +272,11 @@ https://codepen.io/eascodes/pen/JjyOXbg
 **Thoughts** I was excited to complete the ES6 module after working on it this past week. Watching the Intro to JS video definitely helped to put some of the concepts into context and was a nice review.
 
 **Link(s) to work** https://www.freecodecamp.org/eascodes
+
+## Day 34: November 28, 2021
+
+**Today's Progress**: Today I continued working on the FreeCodeCamp module on regular expressions. I am currently working on matching.
+
+**Thoughts** The regular expressions module has been pretty understandable so far.
+
+**Link(s) to work** https://www.freecodecamp.org/eascodes
