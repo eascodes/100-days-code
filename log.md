@@ -312,3 +312,11 @@ https://codepen.io/eascodes/pen/JjyOXbg
 **Thoughts** The regular expressions module has been pretty understandable so far.
 
 **Link(s) to work** https://www.freecodecamp.org/eascodes
+
+## Day 39: December 5, 2021
+
+**Today's Progress**: Today I continued working on the FreeCodeCamp module on regular expressions. I am still working on various types of matching.
+
+**Thoughts** The regular expressions module has been pretty understandable so far.
+
+**Link(s) to work** https://www.freecodecamp.org/eascodes
