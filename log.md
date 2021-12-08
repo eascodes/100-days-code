@@ -320,3 +320,11 @@ https://codepen.io/eascodes/pen/JjyOXbg
 **Thoughts** The regular expressions module has been pretty understandable so far.
 
 **Link(s) to work** https://www.freecodecamp.org/eascodes
+
+## Day 40: December 7, 2021
+
+**Today's Progress**: Today I continued working on the FreeCodeCamp module on regular expressions. I am now combining matching techniques to complete more complex tasks such as searching username/password databases for rule compliance.
+
+**Thoughts** The regular expressions module has been pretty understandable so far. I had to take some time away from coding over the past week due to a family emergency but am now getting back into my regular routine.
+
+**Link(s) to work** https://www.freecodecamp.org/eascodes
