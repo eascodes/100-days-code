@@ -328,3 +328,11 @@ https://codepen.io/eascodes/pen/JjyOXbg
 **Thoughts** The regular expressions module has been pretty understandable so far. I had to take some time away from coding over the past week due to a family emergency but am now getting back into my regular routine.
 
 **Link(s) to work** https://www.freecodecamp.org/eascodes
+
+## Day 41: December 8, 2021
+
+**Today's Progress**: Today I completed the FreeCodeCamp module on regular expressions. I learned how to search & replace text.
+
+**Thoughts** Although the regular expressions module seemed more straightforward than previous JavaScript modules, it took me a while to complete due to losing coding time over the past 2 weeks. The module had very useful information though, which I'm excited to incorporate as I move forward on my JavaScript journey.
+
+**Link(s) to work** https://www.freecodecamp.org/eascodes
