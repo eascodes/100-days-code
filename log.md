@@ -336,3 +336,11 @@ https://codepen.io/eascodes/pen/JjyOXbg
 **Thoughts** Although the regular expressions module seemed more straightforward than previous JavaScript modules, it took me a while to complete due to losing coding time over the past 2 weeks. The module had very useful information though, which I'm excited to incorporate as I move forward on my JavaScript journey.
 
 **Link(s) to work** https://www.freecodecamp.org/eascodes
+
+## Day 42: December 10, 2021
+
+**Today's Progress**: Today I learned how to resize images to make webpages load faster. I am resizing the images for my bakery website.
+
+**Thoughts** I'm intrigued that doing something as minimal as resizing an image can make such a big difference for loading a page & improving user experience. Great lesson!
+
+**Link(s) to work** https://github.com/eascodes?tab=repositories
