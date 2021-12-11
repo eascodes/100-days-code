@@ -344,3 +344,11 @@ https://codepen.io/eascodes/pen/JjyOXbg
 **Thoughts** I'm intrigued that doing something as minimal as resizing an image can make such a big difference for loading a page & improving user experience. Great lesson!
 
 **Link(s) to work** https://github.com/eascodes?tab=repositories
+
+## Day 43: December 11, 2021
+
+**Today's Progress**: Today I finished roughly half of the Debugging module on the FreeCodeCamp JavaScript course.
+
+**Thoughts** This module has some very useful information that I think would have been more helpful at the start of the JavaScript course.
+
+**Link(s) to work** https://www.freecodecamp.org/eascodes
