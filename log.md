@@ -352,3 +352,11 @@ https://codepen.io/eascodes/pen/JjyOXbg
 **Thoughts** This module has some very useful information that I think would have been more helpful at the start of the JavaScript course.
 
 **Link(s) to work** https://www.freecodecamp.org/eascodes
+
+## Day 44: December 12, 2021
+
+**Today's Progress**: Today I completed the Debugging module on the FreeCodeCamp JavaScript course.
+
+**Thoughts** I now have a better understanding of how I crashed my browser a few times with infinite loops.
+
+**Link(s) to work** https://www.freecodecamp.org/eascodes
