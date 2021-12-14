@@ -360,3 +360,11 @@ https://codepen.io/eascodes/pen/JjyOXbg
 **Thoughts** I now have a better understanding of how I crashed my browser a few times with infinite loops.
 
 **Link(s) to work** https://www.freecodecamp.org/eascodes
+
+## Day 45: December 13, 2021
+
+**Today's Progress**: Today I started the basic data structures module on the FreeCodeCamp JavaScript course.
+
+**Thoughts** So far this module has been a review. I think once I get a grasp on this content I will have a better idea of how to incorporate JS into my bakery website project.
+
+**Link(s) to work** https://www.freecodecamp.org/eascodes
