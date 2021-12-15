@@ -368,3 +368,11 @@ https://codepen.io/eascodes/pen/JjyOXbg
 **Thoughts** So far this module has been a review. I think once I get a grasp on this content I will have a better idea of how to incorporate JS into my bakery website project.
 
 **Link(s) to work** https://www.freecodecamp.org/eascodes
+
+## Day 46: December 14, 2021
+
+**Today's Progress**: Today I continued working on the basic data structures module on the FreeCodeCamp JavaScript course.
+
+**Thoughts** This module has been one of my favorites so far. I enjoy the problem solving involved with tasks like modifying arrays.
+
+**Link(s) to work** https://www.freecodecamp.org/eascodes
