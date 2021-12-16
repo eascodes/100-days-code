@@ -376,3 +376,11 @@ https://codepen.io/eascodes/pen/JjyOXbg
 **Thoughts** This module has been one of my favorites so far. I enjoy the problem solving involved with tasks like modifying arrays.
 
 **Link(s) to work** https://www.freecodecamp.org/eascodes
+
+## Day 47: December 15, 2021
+
+**Today's Progress**: Today I completed the basic data structures module on the FreeCodeCamp JavaScript course.
+
+**Thoughts** This module was definitely one of my favorites. It was a nice review of previous concepts with some new challenges mixed in. I'm excited to try out some more complicated tasks now that I'm familiar with most of the basic uses/features of objects in JavaScript.
+
+**Link(s) to work** https://www.freecodecamp.org/eascodes
