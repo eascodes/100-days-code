@@ -384,3 +384,11 @@ https://codepen.io/eascodes/pen/JjyOXbg
 **Thoughts** This module was definitely one of my favorites. It was a nice review of previous concepts with some new challenges mixed in. I'm excited to try out some more complicated tasks now that I'm familiar with most of the basic uses/features of objects in JavaScript.
 
 **Link(s) to work** https://www.freecodecamp.org/eascodes
+
+## Day 48: December 16, 2021
+
+**Today's Progress**: Today I started the basic algorithm scripting module on the FreeCodeCamp JavaScript course.
+
+**Thoughts** It took me >1 hour to solve the first 2 challenges, but this type of problem-solving is the part of coding that I enjoy most.
+
+**Link(s) to work** https://www.freecodecamp.org/eascodes
