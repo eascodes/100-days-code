@@ -392,3 +392,11 @@ https://codepen.io/eascodes/pen/JjyOXbg
 **Thoughts** It took me >1 hour to solve the first 2 challenges, but this type of problem-solving is the part of coding that I enjoy most.
 
 **Link(s) to work** https://www.freecodecamp.org/eascodes
+
+## Day 49: December 17, 2021
+
+**Today's Progress**: I am halfway through the basic algorithm scripting module on the FreeCodeCamp JavaScript course.
+
+**Thoughts** The challenges are still taking me quite a while to complete, and my coding sometimes takes round-about routes, but it is very exciting whenever I reach a solution! I am getting much more comfortable with transitioning between arrays and strings, and using for loops.
+
+**Link(s) to work** https://www.freecodecamp.org/eascodes
