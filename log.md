@@ -400,3 +400,11 @@ https://codepen.io/eascodes/pen/JjyOXbg
 **Thoughts** The challenges are still taking me quite a while to complete, and my coding sometimes takes round-about routes, but it is very exciting whenever I reach a solution! I am getting much more comfortable with transitioning between arrays and strings, and using for loops.
 
 **Link(s) to work** https://www.freecodecamp.org/eascodes
+
+## Day 50: December 18, 2021
+
+**Today's Progress**: I am continuing to work on the basic algorithm scripting module on the FreeCodeCamp JavaScript course. I spent most of my time today creating a function which passes 'truth tests.'
+
+**Thoughts** I am so excited to have made it this far!
+
+**Link(s) to work** https://www.freecodecamp.org/eascodes
