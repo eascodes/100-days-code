@@ -408,3 +408,11 @@ https://codepen.io/eascodes/pen/JjyOXbg
 **Thoughts** I am so excited to have made it this far!
 
 **Link(s) to work** https://www.freecodecamp.org/eascodes
+
+## Day 51: December 19, 2021
+
+**Today's Progress**: I am continuing to work on the basic algorithm scripting module on the FreeCodeCamp JavaScript course.
+
+**Thoughts** When I get stuck on a challenge, I have discovered that a helpful strategy is to explain the problem to someone else. 
+
+**Link(s) to work** https://www.freecodecamp.org/eascodes
