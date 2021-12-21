@@ -416,3 +416,11 @@ https://codepen.io/eascodes/pen/JjyOXbg
 **Thoughts** When I get stuck on a challenge, I have discovered that a helpful strategy is to explain the problem to someone else. 
 
 **Link(s) to work** https://www.freecodecamp.org/eascodes
+
+## Day 52: December 20, 2021
+
+**Today's Progress**: I am continuing to work on the basic algorithm scripting module on the FreeCodeCamp JavaScript course.
+
+**Thoughts** I am still greatly enjoying this module. Each challenge takes me a while to figure out but through trial and error I'm able to reach a solution. 
+
+**Link(s) to work** https://www.freecodecamp.org/eascodes
