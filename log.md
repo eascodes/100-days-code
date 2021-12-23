@@ -432,3 +432,11 @@ https://codepen.io/eascodes/pen/JjyOXbg
 **Thoughts** I am still greatly enjoying this module. Each challenge takes me a while to figure out but through trial and error I'm able to reach a solution. 
 
 **Link(s) to work** https://www.freecodecamp.org/eascodes
+
+## Day 54: December 22, 2021
+
+**Today's Progress**: I am continuing to work on the basic algorithm scripting module on the FreeCodeCamp JavaScript course.
+
+**Thoughts** I am still greatly enjoying this module. Each challenge takes me a while to figure out but through trial and error I'm able to reach a solution. 
+
+**Link(s) to work** https://www.freecodecamp.org/eascodes
