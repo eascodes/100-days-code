@@ -448,3 +448,11 @@ https://codepen.io/eascodes/pen/JjyOXbg
 **Thoughts** I am still greatly enjoying this module. Each challenge takes me a while to figure out but through trial and error I'm able to reach a solution. 
 
 **Link(s) to work** https://www.freecodecamp.org/eascodes
+
+## Day 56: December 24, 2021
+
+**Today's Progress**: Today I completed the basic algorithm scripting module on the FreeCodeCamp JavaScript course.
+
+**Thoughts** This was definitely my favorite module. Some of the questions stumped me but I enjoyed working through the challenges. I'm excited to learn about Object Oriented Programming. 
+
+**Link(s) to work** https://www.freecodecamp.org/eascodes
