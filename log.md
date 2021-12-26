@@ -456,3 +456,11 @@ https://codepen.io/eascodes/pen/JjyOXbg
 **Thoughts** This was definitely my favorite module. Some of the questions stumped me but I enjoyed working through the challenges. I'm excited to learn about Object Oriented Programming. 
 
 **Link(s) to work** https://www.freecodecamp.org/eascodes
+
+## Day 57: December 25, 2021
+
+**Today's Progress**: Today I started the Object Oriented Programming module on the FreeCodeCamp JavaScript course. I also shared with my mom the bakery website prototype that I created for her for Christmas.
+
+**Thoughts** I loved sharing the bakery website with my mom! It was an awesome experience to apply my learning experience with coding. There is still more work to do on the website but I can build it with her as she moves forward with her plans.
+
+**Link(s) to work** https://emily.schtubbs.com/mountain-view-bakery/
