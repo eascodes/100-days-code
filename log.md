@@ -464,3 +464,19 @@ https://codepen.io/eascodes/pen/JjyOXbg
 **Thoughts** I loved sharing the bakery website with my mom! It was an awesome experience to apply my learning experience with coding. There is still more work to do on the website but I can build it with her as she moves forward with her plans.
 
 **Link(s) to work** https://emily.schtubbs.com/mountain-view-bakery/
+
+## Day 58: December 26, 2021
+
+**Today's Progress**: Today I continued the Object Oriented Programming module on the FreeCodeCamp JavaScript course.
+
+**Thoughts** This module is pretty straightforward so far.
+
+**Link(s) to work** https://www.freecodecamp.org/eascodes
+
+## Day 59: December 27, 2021
+
+**Today's Progress**: Today I continued the Object Oriented Programming module on the FreeCodeCamp JavaScript course. I also started a side project - a simple website where I can save links to my favorite recipes.
+
+**Thoughts** Although I still enjoy the tutorial challenges, I want to balance my time between tutorials and actual projects. I'm excited to create a website that will be very useful for me.
+
+**Link(s) to work** https://www.freecodecamp.org/eascodes
