@@ -480,3 +480,11 @@ https://codepen.io/eascodes/pen/JjyOXbg
 **Thoughts** Although I still enjoy the tutorial challenges, I want to balance my time between tutorials and actual projects. I'm excited to create a website that will be very useful for me.
 
 **Link(s) to work** https://www.freecodecamp.org/eascodes
+
+## Day 60: December 28, 2021
+
+**Today's Progress**: Today I worked a little on the Object Oriented Programming module on the FreeCodeCamp JavaScript course. I spent most of my time trying to set my new project up so that I can push it to GitHub.
+
+**Thoughts** I got stumped when trying to set up my new project to connect with GitHub - since we have 2 people using the same computer, it gets a little confusing. Once I figured out how to do it, I created a document outlining the steps so I can reference it easily for my next project.
+
+**Link(s) to work** https://github.com/eascodes/recipe
