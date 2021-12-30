@@ -488,3 +488,11 @@ https://codepen.io/eascodes/pen/JjyOXbg
 **Thoughts** I got stumped when trying to set up my new project to connect with GitHub - since we have 2 people using the same computer, it gets a little confusing. Once I figured out how to do it, I created a document outlining the steps so I can reference it easily for my next project.
 
 **Link(s) to work** https://github.com/eascodes/recipe
+
+## Day 61: December 29, 2021
+
+**Today's Progress**: Today I created the front page layout for my recipe website, plus started the form for adding new recipes.
+
+**Thoughts** It feels really good to get back into HTML/CSS coding after doing tutorials for so long. Will also be excited to incorporate some JavaScript into this website once I cross that bridge!
+
+**Link(s) to work** https://github.com/eascodes/recipe
