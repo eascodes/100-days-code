@@ -496,3 +496,19 @@ https://codepen.io/eascodes/pen/JjyOXbg
 **Thoughts** It feels really good to get back into HTML/CSS coding after doing tutorials for so long. Will also be excited to incorporate some JavaScript into this website once I cross that bridge!
 
 **Link(s) to work** https://github.com/eascodes/recipe
+
+## Day 62: December 30, 2021
+
+**Today's Progress**: Today I worked on my recipe website, and also continued working on the Object Oriented Programming module on the FreeCodeCamp JavaScript course.
+
+**Thoughts** I'm happy with the basic layout of my recipe website. The more challenging part will be linking it to a database.
+
+**Link(s) to work** https://github.com/eascodes/recipe
+
+## Day 63: December 31, 2021
+
+**Today's Progress**: Today I started working through the Google SEO Starter Guide.
+
+**Thoughts** Learning about SEO is a bit of deviation from what I have been working on, but I decided to follow my curiosity today since I haven't learned about SEO before.
+
+**Link(s) to work** https://developers.google.com/search/docs/beginner/seo-starter-guide
