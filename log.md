@@ -512,3 +512,12 @@ https://codepen.io/eascodes/pen/JjyOXbg
 **Thoughts** Learning about SEO is a bit of deviation from what I have been working on, but I decided to follow my curiosity today since I haven't learned about SEO before.
 
 **Link(s) to work** https://developers.google.com/search/docs/beginner/seo-starter-guide
+
+## Day 64: January 1, 2021
+
+**Today's Progress**: Today I created a database and linked it to the "new recipe" form on my recipe website using PHP.
+
+**Thoughts** Learning about how to build a database was a major roadblock for me. I was very confused about how to get started and didn't think that I was experienced enough to figure it out. However, I found a great set of PHP tutorials that helped me learn exactly what to do! I now have my website set up so that any information put into the new recipe form is saved into a database. Next I will learn how to pull from the database and display the data on my website homepage. I am very excitement about this advancement!
+
+**Link(s) to work** https://emily.schtubbs.com/recipe/newrecipe.php
+https://www.youtube.com/playlist?list=PL0eyrZgxdwhwBToawjm9faF1ixePexft-
