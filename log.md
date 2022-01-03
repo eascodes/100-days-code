@@ -521,3 +521,11 @@ https://codepen.io/eascodes/pen/JjyOXbg
 
 **Link(s) to work** https://emily.schtubbs.com/recipe/newrecipe.php
 https://www.youtube.com/playlist?list=PL0eyrZgxdwhwBToawjm9faF1ixePexft-
+
+## Day 65: January 2, 2021
+
+**Today's Progress**: Today I continued the Object Oriented Programming module on the FreeCodeCamp JavaScript course.
+
+**Thoughts** I was more enthused to continue the JavaScript tutorials after trying PHP for the first time yesterday and realizing the similarities in the programming languages.
+
+**Link(s) to work** https://www.freecodecamp.org/eascodes
