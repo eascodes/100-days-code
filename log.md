@@ -529,3 +529,11 @@ https://www.youtube.com/playlist?list=PL0eyrZgxdwhwBToawjm9faF1ixePexft-
 **Thoughts** I was more enthused to continue the JavaScript tutorials after trying PHP for the first time yesterday and realizing the similarities in the programming languages.
 
 **Link(s) to work** https://www.freecodecamp.org/eascodes
+
+## Day 66: January 3, 2021
+
+**Today's Progress**: Today I completed the Object Oriented Programming module on the FreeCodeCamp JavaScript course. I started the next module on Functional Programming.
+
+**Thoughts** Some of the concepts in the OOP module were a little overwhelming toward the end, but I think they will make better sense to me when I put them into context in a coding project.
+
+**Link(s) to work** https://www.freecodecamp.org/eascodes
