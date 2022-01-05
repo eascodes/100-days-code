@@ -537,3 +537,11 @@ https://www.youtube.com/playlist?list=PL0eyrZgxdwhwBToawjm9faF1ixePexft-
 **Thoughts** Some of the concepts in the OOP module were a little overwhelming toward the end, but I think they will make better sense to me when I put them into context in a coding project.
 
 **Link(s) to work** https://www.freecodecamp.org/eascodes
+
+## Day 67: January 4, 2021
+
+**Today's Progress**: Today I set up the front page of my recipe website to pull & display recipes from my database once they submitted through the "new recipe" form. I also set up a functional search bar.
+
+**Thoughts** I am ecstatic that I was able to figure these tasks out! I used the same series of PHP tutorials as before, but had to tailor the instructions more for what I was trying to accomplish. I ran into a few errors and issues along the way but was able to quickly figure them out.
+
+**Link(s) to work** https://emily.schtubbs.com/recipe/index.php
