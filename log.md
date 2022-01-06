@@ -545,3 +545,19 @@ https://www.youtube.com/playlist?list=PL0eyrZgxdwhwBToawjm9faF1ixePexft-
 **Thoughts** I am ecstatic that I was able to figure these tasks out! I used the same series of PHP tutorials as before, but had to tailor the instructions more for what I was trying to accomplish. I ran into a few errors and issues along the way but was able to quickly figure them out.
 
 **Link(s) to work** https://emily.schtubbs.com/recipe/index.php
+
+## Day 68: January 5, 2021
+
+**Today's Progress**: Today I worked on re-organizing my folders & files in Visual Studio Code. I started running into issues with having git repos within git repos. I got some help and now everything should be in working order again! I also started orienting myself with the code for a meal prep recipe website that my husband, Cody, has been creating.
+
+**Thoughts** I got a little overwhelmed trying to fix my files & folders, but I am glad that I asked for help and got it sorted out.
+
+**Link(s) to work** https://mealprepfunday.com/
+
+## Day 69: January 6, 2021
+
+**Today's Progress**: Today I started working with Cody on the meal prep recipe website that he's been creating. I connected the search bar to the recipe database so it can now be used to search for recipes by name. I am currently figuring out how users can also search for other users, or search for recipes using recipe #tags.
+
+**Thoughts** It was pretty easy to set up the search bar function after doing it for my favorite recipe website the other day. Figuring out the logic & search functions for users & recipe tags is proving to be much more complicated but I think I am on the right track for figuring it out.
+
+**Link(s) to work** https://mealprepfunday.com/
