@@ -561,3 +561,11 @@ https://www.youtube.com/playlist?list=PL0eyrZgxdwhwBToawjm9faF1ixePexft-
 **Thoughts** It was pretty easy to set up the search bar function after doing it for my favorite recipe website the other day. Figuring out the logic & search functions for users & recipe tags is proving to be much more complicated but I think I am on the right track for figuring it out.
 
 **Link(s) to work** https://mealprepfunday.com/
+
+## Day 70: January 7, 2021
+
+**Today's Progress**: Today I continued working on the Functional Programming module on the FreeCodeCamp JavaScript course.
+
+**Thoughts** The challenges seem to be getting harder as I near the end of the JavaScript course - it took me about an hour to solve one challenge today. 
+
+**Link(s) to work** https://www.freecodecamp.org/eascodes
