@@ -569,3 +569,11 @@ https://www.youtube.com/playlist?list=PL0eyrZgxdwhwBToawjm9faF1ixePexft-
 **Thoughts** The challenges seem to be getting harder as I near the end of the JavaScript course - it took me about an hour to solve one challenge today. 
 
 **Link(s) to work** https://www.freecodecamp.org/eascodes
+
+## Day 71: January 9, 2021
+
+**Today's Progress**: Today I worked on the search bar functionality for the meal prep recipe website. I am figuring out a way to break down the string, iterate through each search term, and search the appropriate database depending on what the user is searching (recipe name, recipe tag, and/or user).
+
+**Thoughts** The search bar coding is still challenging but I am getting closr to the solution! 
+
+**Link(s) to work** https://mealprepfunday.com/
