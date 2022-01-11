@@ -577,3 +577,11 @@ https://www.youtube.com/playlist?list=PL0eyrZgxdwhwBToawjm9faF1ixePexft-
 **Thoughts** The search bar coding is still challenging but I am getting closr to the solution! 
 
 **Link(s) to work** https://mealprepfunday.com/
+
+## Day 72: January 10, 2021
+
+**Today's Progress**: Today I continued working on the Functional Programming module on the FreeCodeCamp JavaScript course.
+
+**Thoughts** I'm finding it helpful to bounce back & forth between tutorials and projects.
+
+**Link(s) to work** https://www.freecodecamp.org/eascodes
