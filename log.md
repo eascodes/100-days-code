@@ -585,3 +585,11 @@ https://www.youtube.com/playlist?list=PL0eyrZgxdwhwBToawjm9faF1ixePexft-
 **Thoughts** I'm finding it helpful to bounce back & forth between tutorials and projects.
 
 **Link(s) to work** https://www.freecodecamp.org/eascodes
+
+## Day 73: January 11, 2021
+
+**Today's Progress**: Today I continued working on the Functional Programming module on the FreeCodeCamp JavaScript course.
+
+**Thoughts** I'm finding it helpful to bounce back & forth between tutorials and projects.
+
+**Link(s) to work** https://www.freecodecamp.org/eascodes
