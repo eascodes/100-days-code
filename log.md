@@ -593,3 +593,11 @@ https://www.youtube.com/playlist?list=PL0eyrZgxdwhwBToawjm9faF1ixePexft-
 **Thoughts** I'm finding it helpful to bounce back & forth between tutorials and projects.
 
 **Link(s) to work** https://www.freecodecamp.org/eascodes
+
+## Day 74: January 12, 2021
+
+**Today's Progress**: Today I worked on the search bar functionality for the meal prep recipe website. I figured out how to successfully search for recipe names and recipes tags.
+
+**Thoughts** I thought it was interesting that one of the tutorial challenges I completed yesterday helped me to solve an issue I was having with my coding today. 
+
+**Link(s) to work** https://mealprepfunday.com/
