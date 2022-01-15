@@ -601,3 +601,19 @@ https://www.youtube.com/playlist?list=PL0eyrZgxdwhwBToawjm9faF1ixePexft-
 **Thoughts** I thought it was interesting that one of the tutorial challenges I completed yesterday helped me to solve an issue I was having with my coding today. 
 
 **Link(s) to work** https://mealprepfunday.com/
+
+## Day 75: January 13, 2021
+
+**Today's Progress**: Today I worked on the search bar functionality for the meal prep recipe website. I figured out how to successfully show recipe names as the search results for recipe names, recipes tags, and usernames.
+
+**Thoughts** I was excited to get the recipe names to show up as the search results! The search bar is now functional for searching each type of element (#tag, @user, or recipe name) individually, but now I need to figure out how to narrow search results when a search string contains multiple types of elements.
+
+**Link(s) to work** https://mealprepfunday.com/
+
+## Day 76: January 14, 2021
+
+**Today's Progress**: Today I worked on the search bar functionality for the meal prep recipe website. I figured out how to successfully search the database using combined search terms, thus narrowing the results. There is one issue that I am still having when >2 types of search elements are used, but I believe I'm on the right track for the solution.
+
+**Thoughts** I was REALLY excited to get the search bar working for multiple types of search terms. This is something that I initially thought would be much too complicated for me to figure out, but here I am!
+
+**Link(s) to work** https://mealprepfunday.com/
