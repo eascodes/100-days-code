@@ -617,3 +617,11 @@ https://www.youtube.com/playlist?list=PL0eyrZgxdwhwBToawjm9faF1ixePexft-
 **Thoughts** I was REALLY excited to get the search bar working for multiple types of search terms. This is something that I initially thought would be much too complicated for me to figure out, but here I am!
 
 **Link(s) to work** https://mealprepfunday.com/
+
+## Day 77: January 15, 2021
+
+**Today's Progress**: Today I continued working on the Functional Programming module on the FreeCodeCamp JavaScript course.
+
+**Thoughts** Today I was reflecting on how confusing "for loops" were when I first learned about them, and now I can knock them out without thinking twice. Sometimes progress seems slow, but when I look at the larger picture, I am impressed by how much I've accomplished in the past 2.5 months. I have said this before, but I will continue to say, that a huge catalyst to my learning is working on real life projects in tandem with structured training/tutorials.
+
+**Link(s) to work** https://www.freecodecamp.org/eascodes
