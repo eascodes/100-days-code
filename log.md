@@ -625,3 +625,11 @@ https://www.youtube.com/playlist?list=PL0eyrZgxdwhwBToawjm9faF1ixePexft-
 **Thoughts** Today I was reflecting on how confusing "for loops" were when I first learned about them, and now I can knock them out without thinking twice. Sometimes progress seems slow, but when I look at the larger picture, I am impressed by how much I've accomplished in the past 2.5 months. I have said this before, but I will continue to say, that a huge catalyst to my learning is working on real life projects in tandem with structured training/tutorials.
 
 **Link(s) to work** https://www.freecodecamp.org/eascodes
+
+## Day 78: January 16, 2021
+
+**Today's Progress**: Today I worked on the search bar functionality for the meal prep recipe website. I learned some new PHP functions such as "call_user_func_array()" and "array_values()". I have the search bar almost completely finished except for one of my test searches - the results aren't showing correctly.
+
+**Thoughts** I think I am going to write out some of my code on paper to try to figure out what is happening with the search bar issue. I am excited that it's almost complete.
+
+**Link(s) to work** https://mealprepfunday.com/
