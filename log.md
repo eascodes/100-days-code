@@ -633,3 +633,11 @@ https://www.youtube.com/playlist?list=PL0eyrZgxdwhwBToawjm9faF1ixePexft-
 **Thoughts** I think I am going to write out some of my code on paper to try to figure out what is happening with the search bar issue. I am excited that it's almost complete.
 
 **Link(s) to work** https://mealprepfunday.com/
+
+## Day 79: January 17, 2021
+
+**Today's Progress**: Today I worked on the search bar functionality for the meal prep recipe website. I pinpointed the issue I've been facing - there is an unecessary loop happening with one of my array_push functions. Now that I know where the problem is, I'm working through ways to fix it.
+
+**Thoughts** I feel much better now that I understand where the problem is. What helped me discover this was printing my variables one by one to see where the issue started.
+
+**Link(s) to work** https://mealprepfunday.com/
