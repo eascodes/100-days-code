@@ -641,3 +641,12 @@ https://www.youtube.com/playlist?list=PL0eyrZgxdwhwBToawjm9faF1ixePexft-
 **Thoughts** I feel much better now that I understand where the problem is. What helped me discover this was printing my variables one by one to see where the issue started.
 
 **Link(s) to work** https://mealprepfunday.com/
+
+## Day 80: January 18, 2021
+
+**Today's Progress**: Today I finished working on the search bar functionality for the meal prep recipe website. Users can now search combinations of recipe names, usernames, and recipes tags and the search function will narrow results appropriately. The issue I was facing yesterday was solved by moving the location of one of my variables which set up an empty array. After finishing the search bar, I continued working on the functional programming module on the JavaScript FreeCodeCamp course.
+
+**Thoughts** I am so excited that I finished the search bar! I honestly thought it would be too complicated for me to figure out with my level of experience. Working on the search bar complemented my JavaScript learning as well.
+
+**Link(s) to work** https://mealprepfunday.com/
+https://www.freecodecamp.org/eascodes
