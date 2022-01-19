@@ -650,3 +650,11 @@ https://www.youtube.com/playlist?list=PL0eyrZgxdwhwBToawjm9faF1ixePexft-
 
 **Link(s) to work** https://mealprepfunday.com/
 https://www.freecodecamp.org/eascodes
+
+## Day 81: January 19, 2021
+
+**Today's Progress**: Today I completed the functional programming module on the JavaScript FreeCodeCamp course. I started the intermediate algorithm scripting module. I also worked on some CSS styling for the meal prep recipe website.
+
+**Thoughts** I have been looking forward to the intermediate algorithm scripting module and it has not disappointed me! I love the practical challenges presented.
+
+**Link(s) to work** https://www.freecodecamp.org/eascodes
