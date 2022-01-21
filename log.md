@@ -666,3 +666,11 @@ https://www.freecodecamp.org/eascodes
 **Thoughts** These challenges are taking me quite a while to solve but I am enjoying them. I am finding it helpful to alternate between coding for 45 mins straight and taking 15 minute breaks.
 
 **Link(s) to work** https://www.freecodecamp.org/eascodes
+
+## Day 83: January 21, 2021
+
+**Today's Progress**: Today I worked on the intermediate algorithm scripting module for the JavaScript FreeCodeCamp course.
+
+**Thoughts** These challenges are taking me quite a while to solve but I am enjoying them.
+
+**Link(s) to work** https://www.freecodecamp.org/eascodes
