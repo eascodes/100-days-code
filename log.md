@@ -658,3 +658,11 @@ https://www.freecodecamp.org/eascodes
 **Thoughts** I have been looking forward to the intermediate algorithm scripting module and it has not disappointed me! I love the practical challenges presented.
 
 **Link(s) to work** https://www.freecodecamp.org/eascodes
+
+## Day 82: January 20, 2021
+
+**Today's Progress**: Today I worked on the intermediate algorithm scripting module for the JavaScript FreeCodeCamp course.
+
+**Thoughts** These challenges are taking me quite a while to solve but I am enjoying them. I am finding it helpful to alternate between coding for 45 mins straight and taking 15 minute breaks.
+
+**Link(s) to work** https://www.freecodecamp.org/eascodes
