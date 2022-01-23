@@ -674,3 +674,11 @@ https://www.freecodecamp.org/eascodes
 **Thoughts** These challenges are taking me quite a while to solve but I am enjoying them.
 
 **Link(s) to work** https://www.freecodecamp.org/eascodes
+
+## Day 84: January 22, 2021
+
+**Today's Progress**: Today I worked on the intermediate algorithm scripting module for the JavaScript FreeCodeCamp course.
+
+**Thoughts** These challenges are taking me quite a while to solve but I am enjoying them.
+
+**Link(s) to work** https://www.freecodecamp.org/eascodes
