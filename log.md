@@ -722,3 +722,11 @@ https://www.freecodecamp.org/eascodes
 **Thoughts** Although I did enjoy the intermediate algorithm scripting module, I am glad to have finally wrapped it up so I can start applying JavaScript in a more project-oriented way. 
 
 **Link(s) to work** https://www.freecodecamp.org/eascodes
+
+## Day 90: January 28, 2021
+
+**Today's Progress**: Today I worked on the applied JavaScript projects for the freeCodeCamp JavaScript course.
+
+**Thoughts** I was expecting the JavaScript projects to be more website-oriented, but they are more like the algorithm challenges that I was completing previously. However they are still helpful for problem-solving. 
+
+**Link(s) to work** https://www.freecodecamp.org/eascodes
