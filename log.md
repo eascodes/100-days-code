@@ -730,3 +730,11 @@ https://www.freecodecamp.org/eascodes
 **Thoughts** I was expecting the JavaScript projects to be more website-oriented, but they are more like the algorithm challenges that I was completing previously. However they are still helpful for problem-solving. 
 
 **Link(s) to work** https://www.freecodecamp.org/eascodes
+
+## Day 91: January 29, 2021
+
+**Today's Progress**: Today I worked on the applied JavaScript projects for the freeCodeCamp JavaScript course. I am on the final project, which is a cash register function.
+
+**Thoughts** This cash register function is definitely testing my abilities! I realized that a lot of my calculations were off by 1 or 2 pennies, and then learned about floating point arithmetic on JavaScript. I am planning to multiply everything by 100 for the calculations to work around this complication. This is a good learning experience about the importance of keeping code as simple as possible so it's easier to make variable changes when needed. 
+
+**Link(s) to work** https://www.freecodecamp.org/eascodes
