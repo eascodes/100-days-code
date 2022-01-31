@@ -738,3 +738,11 @@ https://www.freecodecamp.org/eascodes
 **Thoughts** This cash register function is definitely testing my abilities! I realized that a lot of my calculations were off by 1 or 2 pennies, and then learned about floating point arithmetic on JavaScript. I am planning to multiply everything by 100 for the calculations to work around this complication. This is a good learning experience about the importance of keeping code as simple as possible so it's easier to make variable changes when needed. 
 
 **Link(s) to work** https://www.freecodecamp.org/eascodes
+
+## Day 92: January 30, 2021
+
+**Today's Progress**: Today I worked on the applied JavaScript projects for the freeCodeCamp JavaScript course. I am on the final project, which is a cash register function.
+
+**Thoughts** I made some progress with the function today by fixing the calculations to account for floating point arithmetic. I'm hoping to wrap up the challenge tomorrow. 
+
+**Link(s) to work** https://www.freecodecamp.org/eascodes
