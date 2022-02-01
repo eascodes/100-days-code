@@ -746,3 +746,11 @@ https://www.freecodecamp.org/eascodes
 **Thoughts** I made some progress with the function today by fixing the calculations to account for floating point arithmetic. I'm hoping to wrap up the challenge tomorrow. 
 
 **Link(s) to work** https://www.freecodecamp.org/eascodes
+
+## Day 93: January 31, 2021
+
+**Today's Progress**: Today I completed the JavaScript Algorithms and Data Structures certification on FreeCodeCamp.
+
+**Thoughts** This certification took me 2.5 months to complete, and I am extremely proud of myself for sticking with it. It was challenging but awesomely rewarding. I will now work on some projects where I can apply my JavaScript knowledge and experience. 
+
+**Link(s) to work** https://freecodecamp.org/certification/eascodes/javascript-algorithms-and-data-structures
