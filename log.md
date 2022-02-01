@@ -513,7 +513,7 @@ https://codepen.io/eascodes/pen/JjyOXbg
 
 **Link(s) to work** https://developers.google.com/search/docs/beginner/seo-starter-guide
 
-## Day 64: January 1, 2021
+## Day 64: January 1, 2022
 
 **Today's Progress**: Today I created a database and linked it to the "new recipe" form on my recipe website using PHP.
 
@@ -522,7 +522,7 @@ https://codepen.io/eascodes/pen/JjyOXbg
 **Link(s) to work** https://emily.schtubbs.com/recipe/newrecipe.php
 https://www.youtube.com/playlist?list=PL0eyrZgxdwhwBToawjm9faF1ixePexft-
 
-## Day 65: January 2, 2021
+## Day 65: January 2, 2022
 
 **Today's Progress**: Today I continued the Object Oriented Programming module on the FreeCodeCamp JavaScript course.
 
@@ -530,7 +530,7 @@ https://www.youtube.com/playlist?list=PL0eyrZgxdwhwBToawjm9faF1ixePexft-
 
 **Link(s) to work** https://www.freecodecamp.org/eascodes
 
-## Day 66: January 3, 2021
+## Day 66: January 3, 2022
 
 **Today's Progress**: Today I completed the Object Oriented Programming module on the FreeCodeCamp JavaScript course. I started the next module on Functional Programming.
 
@@ -538,7 +538,7 @@ https://www.youtube.com/playlist?list=PL0eyrZgxdwhwBToawjm9faF1ixePexft-
 
 **Link(s) to work** https://www.freecodecamp.org/eascodes
 
-## Day 67: January 4, 2021
+## Day 67: January 4, 2022
 
 **Today's Progress**: Today I set up the front page of my recipe website to pull & display recipes from my database once they submitted through the "new recipe" form. I also set up a functional search bar.
 
@@ -546,7 +546,7 @@ https://www.youtube.com/playlist?list=PL0eyrZgxdwhwBToawjm9faF1ixePexft-
 
 **Link(s) to work** https://emily.schtubbs.com/recipe/index.php
 
-## Day 68: January 5, 2021
+## Day 68: January 5, 2022
 
 **Today's Progress**: Today I worked on re-organizing my folders & files in Visual Studio Code. I started running into issues with having git repos within git repos. I got some help and now everything should be in working order again! I also started orienting myself with the code for a meal prep recipe website that my husband, Cody, has been creating.
 
@@ -554,7 +554,7 @@ https://www.youtube.com/playlist?list=PL0eyrZgxdwhwBToawjm9faF1ixePexft-
 
 **Link(s) to work** https://mealprepfunday.com/
 
-## Day 69: January 6, 2021
+## Day 69: January 6, 2022
 
 **Today's Progress**: Today I started working with Cody on the meal prep recipe website that he's been creating. I connected the search bar to the recipe database so it can now be used to search for recipes by name. I am currently figuring out how users can also search for other users, or search for recipes using recipe #tags.
 
@@ -562,7 +562,7 @@ https://www.youtube.com/playlist?list=PL0eyrZgxdwhwBToawjm9faF1ixePexft-
 
 **Link(s) to work** https://mealprepfunday.com/
 
-## Day 70: January 7, 2021
+## Day 70: January 7, 2022
 
 **Today's Progress**: Today I continued working on the Functional Programming module on the FreeCodeCamp JavaScript course.
 
@@ -570,7 +570,7 @@ https://www.youtube.com/playlist?list=PL0eyrZgxdwhwBToawjm9faF1ixePexft-
 
 **Link(s) to work** https://www.freecodecamp.org/eascodes
 
-## Day 71: January 9, 2021
+## Day 71: January 9, 2022
 
 **Today's Progress**: Today I worked on the search bar functionality for the meal prep recipe website. I am figuring out a way to break down the string, iterate through each search term, and search the appropriate database depending on what the user is searching (recipe name, recipe tag, and/or user).
 
@@ -578,7 +578,7 @@ https://www.youtube.com/playlist?list=PL0eyrZgxdwhwBToawjm9faF1ixePexft-
 
 **Link(s) to work** https://mealprepfunday.com/
 
-## Day 72: January 10, 2021
+## Day 72: January 10, 2022
 
 **Today's Progress**: Today I continued working on the Functional Programming module on the FreeCodeCamp JavaScript course.
 
@@ -586,7 +586,7 @@ https://www.youtube.com/playlist?list=PL0eyrZgxdwhwBToawjm9faF1ixePexft-
 
 **Link(s) to work** https://www.freecodecamp.org/eascodes
 
-## Day 73: January 11, 2021
+## Day 73: January 11, 2022
 
 **Today's Progress**: Today I continued working on the Functional Programming module on the FreeCodeCamp JavaScript course.
 
@@ -594,7 +594,7 @@ https://www.youtube.com/playlist?list=PL0eyrZgxdwhwBToawjm9faF1ixePexft-
 
 **Link(s) to work** https://www.freecodecamp.org/eascodes
 
-## Day 74: January 12, 2021
+## Day 74: January 12, 2022
 
 **Today's Progress**: Today I worked on the search bar functionality for the meal prep recipe website. I figured out how to successfully search for recipe names and recipes tags.
 
@@ -602,7 +602,7 @@ https://www.youtube.com/playlist?list=PL0eyrZgxdwhwBToawjm9faF1ixePexft-
 
 **Link(s) to work** https://mealprepfunday.com/
 
-## Day 75: January 13, 2021
+## Day 75: January 13, 2022
 
 **Today's Progress**: Today I worked on the search bar functionality for the meal prep recipe website. I figured out how to successfully show recipe names as the search results for recipe names, recipes tags, and usernames.
 
@@ -610,7 +610,7 @@ https://www.youtube.com/playlist?list=PL0eyrZgxdwhwBToawjm9faF1ixePexft-
 
 **Link(s) to work** https://mealprepfunday.com/
 
-## Day 76: January 14, 2021
+## Day 76: January 14, 2022
 
 **Today's Progress**: Today I worked on the search bar functionality for the meal prep recipe website. I figured out how to successfully search the database using combined search terms, thus narrowing the results. There is one issue that I am still having when >2 types of search elements are used, but I believe I'm on the right track for the solution.
 
@@ -618,7 +618,7 @@ https://www.youtube.com/playlist?list=PL0eyrZgxdwhwBToawjm9faF1ixePexft-
 
 **Link(s) to work** https://mealprepfunday.com/
 
-## Day 77: January 15, 2021
+## Day 77: January 15, 2022
 
 **Today's Progress**: Today I continued working on the Functional Programming module on the FreeCodeCamp JavaScript course.
 
@@ -626,7 +626,7 @@ https://www.youtube.com/playlist?list=PL0eyrZgxdwhwBToawjm9faF1ixePexft-
 
 **Link(s) to work** https://www.freecodecamp.org/eascodes
 
-## Day 78: January 16, 2021
+## Day 78: January 16, 2022
 
 **Today's Progress**: Today I worked on the search bar functionality for the meal prep recipe website. I learned some new PHP functions such as "call_user_func_array()" and "array_values()". I have the search bar almost completely finished except for one of my test searches - the results aren't showing correctly.
 
@@ -634,7 +634,7 @@ https://www.youtube.com/playlist?list=PL0eyrZgxdwhwBToawjm9faF1ixePexft-
 
 **Link(s) to work** https://mealprepfunday.com/
 
-## Day 79: January 17, 2021
+## Day 79: January 17, 2022
 
 **Today's Progress**: Today I worked on the search bar functionality for the meal prep recipe website. I pinpointed the issue I've been facing - there is an unecessary loop happening with one of my array_push functions. Now that I know where the problem is, I'm working through ways to fix it.
 
@@ -642,7 +642,7 @@ https://www.youtube.com/playlist?list=PL0eyrZgxdwhwBToawjm9faF1ixePexft-
 
 **Link(s) to work** https://mealprepfunday.com/
 
-## Day 80: January 18, 2021
+## Day 80: January 18, 2022
 
 **Today's Progress**: Today I finished working on the search bar functionality for the meal prep recipe website. Users can now search combinations of recipe names, usernames, and recipes tags and the search function will narrow results appropriately. The issue I was facing yesterday was solved by moving the location of one of my variables which set up an empty array. After finishing the search bar, I continued working on the functional programming module on the JavaScript FreeCodeCamp course.
 
@@ -651,7 +651,7 @@ https://www.youtube.com/playlist?list=PL0eyrZgxdwhwBToawjm9faF1ixePexft-
 **Link(s) to work** https://mealprepfunday.com/
 https://www.freecodecamp.org/eascodes
 
-## Day 81: January 19, 2021
+## Day 81: January 19, 2022
 
 **Today's Progress**: Today I completed the functional programming module on the JavaScript FreeCodeCamp course. I started the intermediate algorithm scripting module. I also worked on some CSS styling for the meal prep recipe website.
 
@@ -659,7 +659,7 @@ https://www.freecodecamp.org/eascodes
 
 **Link(s) to work** https://www.freecodecamp.org/eascodes
 
-## Day 82: January 20, 2021
+## Day 82: January 20, 2022
 
 **Today's Progress**: Today I worked on the intermediate algorithm scripting module for the JavaScript FreeCodeCamp course.
 
@@ -667,7 +667,7 @@ https://www.freecodecamp.org/eascodes
 
 **Link(s) to work** https://www.freecodecamp.org/eascodes
 
-## Day 83: January 21, 2021
+## Day 83: January 21, 2022
 
 **Today's Progress**: Today I worked on the intermediate algorithm scripting module for the JavaScript FreeCodeCamp course.
 
@@ -675,7 +675,7 @@ https://www.freecodecamp.org/eascodes
 
 **Link(s) to work** https://www.freecodecamp.org/eascodes
 
-## Day 84: January 22, 2021
+## Day 84: January 22, 2022
 
 **Today's Progress**: Today I worked on the intermediate algorithm scripting module for the JavaScript FreeCodeCamp course.
 
@@ -683,7 +683,7 @@ https://www.freecodecamp.org/eascodes
 
 **Link(s) to work** https://www.freecodecamp.org/eascodes
 
-## Day 85: January 23, 2021
+## Day 85: January 23, 2022
 
 **Today's Progress**: Today I worked on the intermediate algorithm scripting module for the JavaScript FreeCodeCamp course. I also learned about the Fibonacci Sequence.
 
@@ -691,7 +691,7 @@ https://www.freecodecamp.org/eascodes
 
 **Link(s) to work** https://www.freecodecamp.org/eascodes
 
-## Day 86: January 24, 2021
+## Day 86: January 24, 2022
 
 **Today's Progress**: Today I worked on the intermediate algorithm scripting module for the JavaScript FreeCodeCamp course.
 
@@ -699,7 +699,7 @@ https://www.freecodecamp.org/eascodes
 
 **Link(s) to work** https://www.freecodecamp.org/eascodes
 
-## Day 87: January 25, 2021
+## Day 87: January 25, 2022
 
 **Today's Progress**: Today I worked on the intermediate algorithm scripting module for the JavaScript FreeCodeCamp course.
 
@@ -707,7 +707,7 @@ https://www.freecodecamp.org/eascodes
 
 **Link(s) to work** https://www.freecodecamp.org/eascodes
 
-## Day 88: January 26, 2021
+## Day 88: January 26, 2022
 
 **Today's Progress**: Today I worked on the intermediate algorithm scripting module for the JavaScript FreeCodeCamp course.
 
@@ -715,7 +715,7 @@ https://www.freecodecamp.org/eascodes
 
 **Link(s) to work** https://www.freecodecamp.org/eascodes
 
-## Day 89: January 27, 2021
+## Day 89: January 27, 2022
 
 **Today's Progress**: Today I completed the intermediate algorithm scripting module for the JavaScript FreeCodeCamp course. I started the applied JavaScript projects, which is the last module of the course.
 
@@ -723,7 +723,7 @@ https://www.freecodecamp.org/eascodes
 
 **Link(s) to work** https://www.freecodecamp.org/eascodes
 
-## Day 90: January 28, 2021
+## Day 90: January 28, 2022
 
 **Today's Progress**: Today I worked on the applied JavaScript projects for the freeCodeCamp JavaScript course.
 
@@ -731,7 +731,7 @@ https://www.freecodecamp.org/eascodes
 
 **Link(s) to work** https://www.freecodecamp.org/eascodes
 
-## Day 91: January 29, 2021
+## Day 91: January 29, 2022
 
 **Today's Progress**: Today I worked on the applied JavaScript projects for the freeCodeCamp JavaScript course. I am on the final project, which is a cash register function.
 
@@ -739,7 +739,7 @@ https://www.freecodecamp.org/eascodes
 
 **Link(s) to work** https://www.freecodecamp.org/eascodes
 
-## Day 92: January 30, 2021
+## Day 92: January 30, 2022
 
 **Today's Progress**: Today I worked on the applied JavaScript projects for the freeCodeCamp JavaScript course. I am on the final project, which is a cash register function.
 
@@ -747,10 +747,18 @@ https://www.freecodecamp.org/eascodes
 
 **Link(s) to work** https://www.freecodecamp.org/eascodes
 
-## Day 93: January 31, 2021
+## Day 93: January 31, 2022
 
 **Today's Progress**: Today I completed the JavaScript Algorithms and Data Structures certification on FreeCodeCamp.
 
 **Thoughts** This certification took me 2.5 months to complete, and I am extremely proud of myself for sticking with it. It was challenging but awesomely rewarding. I will now work on some projects where I can apply my JavaScript knowledge and experience. 
 
 **Link(s) to work** https://freecodecamp.org/certification/eascodes/javascript-algorithms-and-data-structures
+
+## Day 94: February 2, 2022
+
+**Today's Progress**: Today I started my next project, with which I'll be applying my new JavaScript skills. I'm making a website about backpacking with dogs. I set up my Git repo today, index file, and CSS style sheet for the website. I also created a cartoon of a dog (using Figma) which I will animate with JavaScript.
+
+**Thoughts** I am excited about this project because I am able to use new skills, combine art with coding, and also research a topic that interests me. 
+
+**Link(s) to work** https://github.com/eascodes/dog
