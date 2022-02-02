@@ -762,3 +762,11 @@ https://www.freecodecamp.org/eascodes
 **Thoughts** I am excited about this project because I am able to use new skills, combine art with coding, and also research a topic that interests me. 
 
 **Link(s) to work** https://github.com/eascodes/dog
+
+## Day 95: February 3, 2022
+
+**Today's Progress**: Today I colored in the dog cartoon that I created with Figma. I used CSS to make his tail wag back and forth. Next I will set up my code so that his tail only wags when the cursor is hovering over him.
+
+**Thoughts** Coding the animation was easier than I expected. 
+
+**Link(s) to work** https://emily.schtubbs.com/dog/
