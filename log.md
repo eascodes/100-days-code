@@ -770,3 +770,12 @@ https://www.freecodecamp.org/eascodes
 **Thoughts** Coding the animation was easier than I expected. 
 
 **Link(s) to work** https://emily.schtubbs.com/dog/
+
+## Day 96: February 4, 2022
+
+**Today's Progress**: Today I used JavaScript and CSS to make the tail wag whenever the user's cursor hovers over the cartoon dog I created. I also used JavaScript, PHP, and CSS to create a password validation tool for the meal prep recipe website that my husband is working on.
+
+**Thoughts** Now that I have used JavaScript for 2 different websites, I have a much better understanding of how to use it in actual projects. Although the JavaScript tutorials were very helpful for becoming familiar with the language, it was hard to put the concepts into context when the challenges were isolated to the FreeCodeCamp environment.
+
+**Link(s) to work** https://emily.schtubbs.com/dog/
+https://mealprepfunday.com/
