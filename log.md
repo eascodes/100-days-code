@@ -779,3 +779,11 @@ https://www.freecodecamp.org/eascodes
 
 **Link(s) to work** https://emily.schtubbs.com/dog/
 https://mealprepfunday.com/
+
+## Day 97: February 5, 2022
+
+**Today's Progress**: Today I continued working on a password validation tool for the meal prep recipe website.
+
+**Thoughts** Rather than continue on the dog backpacking website, I decided to shift my work over to the meal prep recipe website because it is more functional and will still allow me to practice JavaScript coding. I have password validation working on the backend, and am designing a popup that will tell users in real-time which password requirements aren't being met. My code is a little disorganized right now due to various experiments, so I am trying to simplify and clean it up to achieve this.
+
+**Link(s) to work** https://mealprepfunday.com/
