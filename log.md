@@ -787,3 +787,11 @@ https://mealprepfunday.com/
 **Thoughts** Rather than continue on the dog backpacking website, I decided to shift my work over to the meal prep recipe website because it is more functional and will still allow me to practice JavaScript coding. I have password validation working on the backend, and am designing a popup that will tell users in real-time which password requirements aren't being met. My code is a little disorganized right now due to various experiments, so I am trying to simplify and clean it up to achieve this.
 
 **Link(s) to work** https://mealprepfunday.com/
+
+## Day 98: February 6, 2022
+
+**Today's Progress**: Today I finished working on a password validation tool for the meal prep recipe website.
+
+**Thoughts** I spent much of today troubleshooting and feel very accomplished now that my coding is functional. I had to start from scratch after my code became too complicated yesterday. It was helpful to add in one element at a time to test each part.
+
+**Link(s) to work** https://mealprepfunday.com/
