@@ -795,3 +795,11 @@ https://mealprepfunday.com/
 **Thoughts** I spent much of today troubleshooting and feel very accomplished now that my coding is functional. I had to start from scratch after my code became too complicated yesterday. It was helpful to add in one element at a time to test each part.
 
 **Link(s) to work** https://mealprepfunday.com/
+
+## Day 99: February 7, 2022
+
+**Today's Progress**: Today I worked on the login feature for the meal prep recipe website. I set up error messages for empty fields, incorrect passwords, and non-existing usernames.
+
+**Thoughts** After working on the sign up feature yesterday, it did not take me too long to complete this task. I'm excited that the website is close to being complete.
+
+**Link(s) to work** https://mealprepfunday.com/
