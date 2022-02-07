@@ -803,3 +803,11 @@ https://mealprepfunday.com/
 **Thoughts** After working on the sign up feature yesterday, it did not take me too long to complete this task. I'm excited that the website is close to being complete.
 
 **Link(s) to work** https://mealprepfunday.com/
+
+## Day 100: February 8, 2022
+
+**Today's Progress**: Today I worked on the meal prep recipe website. I set up the ingredient input section so it requires strictly numerical input. I also set up an autocomplete system so when users type in ingredient measurement units, standard recipe units dynamically appear as suggestions (e.g. tablespoons, teaspoons, etc.).
+
+**Thoughts** This has been an incredible journey. I remember how excited I was when I wrote "Hello World" on my first day, and I took a picture of my computer screen because I didn't know how to take screenshots yet. FreeCodeCamp was an invaluable resource for getting started with the fundamentals of HTML, CSS, and JavaScript. There were some modules that seemed to drag on forever, and some that sped by because the challenges were so fun. The most helpful part of my journey was completing projects outside of the tutorials. I was able to work with a variety of other languages and dabble with both front-end and back-end tasks. Although sometimes coding gets overwhelming, I genuinely look forward to it each day because the overwhelming aspect of it makes solving the problem that much more satisfying. I look forward to continuing coding each day.
+
+**Link(s) to work** https://mealprepfunday.com/
