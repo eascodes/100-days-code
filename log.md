@@ -811,3 +811,11 @@ https://mealprepfunday.com/
 **Thoughts** This has been an incredible journey. I remember how excited I was when I wrote "Hello World" on my first day, and I took a picture of my computer screen because I didn't know how to take screenshots yet. FreeCodeCamp was an invaluable resource for getting started with the fundamentals of HTML, CSS, and JavaScript. There were some modules that seemed to drag on forever, and some that sped by because the challenges were so fun. The most helpful part of my journey was completing projects outside of the tutorials. I was able to work with a variety of other languages and dabble with both front-end and back-end tasks. Although sometimes coding gets overwhelming, I genuinely look forward to it each day because the overwhelming aspect of it makes solving the problem that much more satisfying. I look forward to continuing coding each day.
 
 **Link(s) to work** https://mealprepfunday.com/
+
+## Day 101: February 9, 2022
+
+**Today's Progress**: Today I worked on the meal prep recipe website. I created social media "share" buttons and learned about HTML URL encoding.
+
+**Thoughts** I have found logging my progress to be helpful for keeping myself accountable, so I'll continue to log here unless I develop a new system for tracking progress.
+
+**Link(s) to work** https://mealprepfunday.com/
